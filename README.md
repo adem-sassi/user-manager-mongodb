@@ -1,3 +1,7 @@
+TRAVAIL DE ADEM SASSI ET MOHAMED AZIZ KABISSA
+
+
+
 Gestionnaire de Clients - Application Web
 Description de l'application
 L'application est un système de gestion des clients développé avec Node.js, Express, EJS et MongoDB. Elle permet aux utilisateurs d'ajouter, de lire, de mettre à jour et de supprimer des informations sur les clients. L'application offre une interface utilisateur conviviale pour gérer efficacement les données des clients.
